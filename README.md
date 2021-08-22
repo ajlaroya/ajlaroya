@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ajlaroya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and django
+- 🌱 I’m currently learning python, django, and web development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: email!
+- 📫 How to reach me: PM me for email!
 
 <!---
 ajlaroya/ajlaroya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

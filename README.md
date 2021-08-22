@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajlaroya
+- 👋 Hi, I’m Arthur L. @ajlaroya
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, django, and web development
 - 💞️ I’m looking to collaborate on projects

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur L. @ajlaroya
 - 👀 I’m interested in coding and clean design
-- 🌱 I’m currently learning python, django, and web development
+- 🌱 I’m currently focusing on React, and Web development
 - 💞️ I’m looking to collaborate on projects or for career opportunities
 - 📫 How to reach me: PM me for email or add me on LinkedIn
 
